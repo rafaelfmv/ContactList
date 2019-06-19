@@ -1,0 +1,12 @@
+com\contact\model\Person.class
+com\contact\controller\ContactController.class
+com\contact\service\ContactService.class
+com\contact\service\ContactServiceImpl.class
+com\contact\ContactApplication.class
+com\contact\controller\FuncionarioController.class
+com\contact\repository\ContactRepository.class
+com\contact\service\FuncionarioServiceImpl.class
+com\contact\model\Contact.class
+com\contact\service\FuncionarioService.class
+com\contact\repository\FuncionarioRepository.class
+com\contact\model\Funcionario.class
